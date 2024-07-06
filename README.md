@@ -8,3 +8,6 @@ HI!!
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairu82642&layout=compact&show_icons=true&count_private=true&theme=ambient_gradient" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kairu82642&theme=ambient_gradient" />
 </p>
+
+My License
+![Audio](https://github.com/kairu82642/kairu82642/raw/main/license.mp3)
